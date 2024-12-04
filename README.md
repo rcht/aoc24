@@ -7,3 +7,4 @@ My attempts at Advent of Code 2024. If the problem is easy, I try a self-imposed
 | 1 | Gold | Haskell | 
 | 2 | Gold | Haskell |
 | 3 | Gold | Python one-liner for part 1, Haskell for part 2 |
+| 4 | Gold | Haskell |
