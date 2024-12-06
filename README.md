@@ -9,3 +9,4 @@ My attempts at Advent of Code 2024. If the problem is easy, I try a self-imposed
 | 3 | Gold | Python one-liner for part 1, Haskell for part 2 |
 | 4 | Gold | Haskell |
 | 5 | Gold | None :( |
+| 6 | Silver | Haskell |
