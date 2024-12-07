@@ -10,3 +10,4 @@ My attempts at Advent of Code 2024. If the problem is easy, I try a self-imposed
 | 4 | Gold | Haskell |
 | 5 | Gold | None :( |
 | 6 | Silver | Haskell |
+| 7 | Gold | Haskell |
